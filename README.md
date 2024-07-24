@@ -1,6 +1,6 @@
-# QuickRename
+# InstantRename
 
-QuickRename is a small Neovim plugin that automatically replaces the `:s` command with a global substitute command in command-line mode.
+InstantRename is a small Neovim plugin that automatically replaces the `:s` command with a global substitute command in command-line mode.
 
 ## Installation
 
