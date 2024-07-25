@@ -17,3 +17,6 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```
 ## Usage
 * Simply type `:s` in command-line mode, and it will be automatically expanded to `:%s///g`.
+
+## Reference
+https://zenn.dev/vim_jp/articles/2023-06-30-vim-substitute-tips
